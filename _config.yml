@@ -1,0 +1,26 @@
+title: 00Tokyo Validator
+description: Solana Validator based in Tokyo, Japan
+baseurl: ""
+url: "https://yutaro.github.io"
+
+# GitHub Pages settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files
+exclude:
+  - memo.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Site settings
+lang: en
+timezone: Asia/Tokyo
