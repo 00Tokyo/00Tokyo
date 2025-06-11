@@ -225,6 +225,24 @@ body {
     margin: 20px 0;
 }
 
+/* Security section */
+.security-section {
+    margin: 20px 0;
+}
+
+.security-content {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.security-text {
+    font-size: 10px;
+    line-height: 1.8;
+    color: #cc0000;
+    text-align: left;
+}
+
 .key-info {
     display: flex;
     flex-direction: column;
